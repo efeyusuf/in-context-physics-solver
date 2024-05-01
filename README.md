@@ -1,5 +1,5 @@
 # In Context Physics Solver
-## Steps:
+## Summary:
 
 - All course materials from the famous "Introduction to Classical Mechanis" book from David Morin, which helped me a lot in my International Physics Olympiad journey,  is stored in an embedding space.
 - Problems & Solutions parts are also stored in a separate embedding space.
