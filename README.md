@@ -10,5 +10,5 @@
 
 As a result, the problem-solving abilities of these setting are compared.
 One goal of this project is to understand the semantic search capabilities of language models' in the Physics domain.
-Since we know all questions' and subjects' section numbers, we could have easily fed the content accordingly. But I am curious about language models' embedding space behavior for Physics.
+Since we know all questions' and subjects' section numbers, we could have easily fed the content accordingly, with no need for the embedding search. But I am curious about language models' embedding space behavior for Physics.
 
