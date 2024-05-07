@@ -9,5 +9,6 @@
     3) The subject of the problem is searched through the embedding space and related subjects of the problem is fed to the model (no example problems, only the lecture material
 
 As a result, the problem-solving abilities of these setting are compared.
-You can find the results below. Also, if you want to re-run the experiments, you can run the main_experiments.ipynb file!
+One goal of this project is to understand the semantic search capabilities of language models' in the Physics domain.
+Since we know all questions' and subjects' section numbers, we could have easily fed the content accordingly. But I am curious about language models' embedding space behavior for Physics.
 
