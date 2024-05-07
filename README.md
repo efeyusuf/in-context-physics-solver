@@ -1,7 +1,7 @@
 # In Context Physics Solver
 ## Summary:
 
-- All course materials from the famous "Introduction to Classical Mechanis" book from David Morin, which helped me a lot in my International Physics Olympiad journey,  is stored in an embedding space.
+- All course materials from the famous "Introduction to Classical Mechanis" book from David Morin, which helped me a lot in my physics olympiads journey,  is stored in an embedding space.
 - Problems & Solutions parts are also stored in a separate embedding space.
 - In the test time, when a mechanics problem is assigned to the AI solver, there will be three settings:
     1) Zero-shot solving where only the problem itself is given to the AI and a solution is expected
